@@ -2,5 +2,4 @@
 
 HEPOS
 
-- Marc Lorenz G. Sabado 
 
