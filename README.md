@@ -10,6 +10,9 @@ v1.1 -pinyaTeam
 v1.1 -pinyaTeam
 
 <<<<<<< HEAD
+Dennis Jerry
+=======
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Jalou M. Mutia
@@ -32,3 +35,4 @@ Jalou Mutia
 
 
 >>>>>>> 364b1dbbc33921c61ea72ca4ba5fde7fdd58ff52
+>>>>>>> f6960ae0c3775a61cd632008f04ddf0d904e3ca7
