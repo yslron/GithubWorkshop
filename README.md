@@ -3,6 +3,10 @@
 YSL RON WAS HERE
 
 
-panagdait
-John David Cuevas is here
-Test
+Group-2-Canon
+Canon
+Providencia
+Cuevas
+Bayo
+Timod
+Juanich
