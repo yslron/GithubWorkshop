@@ -1,5 +1,6 @@
 # GithubWorkshop
 
+Group-2-Canon
 Jabin
 Canon
 Bayo
