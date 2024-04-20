@@ -31,6 +31,8 @@ Rianna Batersal
 
 <<<<<<< HEAD
 Jalou Mutia
+
+Rey Mark Lapaz
 =======
 >>>>>>> 6303ba43888ffa46dd8e7fb612d978869f54f029
 >>>>>>> e174b964297ee3ee9246b3b5336a12b42a502993
