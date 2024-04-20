@@ -27,7 +27,7 @@ app.use(addFooter);   // Apply the footer middleware
 app.get("/", (req, res) => {
   fs.readdir(directoryPath, function (err, files) {
     if (err) {
-      return res.status(500).send("Unable to scan directory");
+      return res.status(500).send("Unable to scan directory, Oms was absent");
     }
     let fileList = files.filter(file => file.endsWith('.html'))
                             .map(file => {
