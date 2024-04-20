@@ -1,11 +1,8 @@
 # GithubWorkshop
 
-YSL RON WAS HERE
+HEPOS
 
-v1. For Pulling
+- Marc Lorenz G. Sabado 
 
-v1.1 -pinyaTeam
-
-Gene
 
 Windev
