@@ -2,5 +2,5 @@
 
 HEPOS
 
-- Marc Sabado 
+- Marc Lorenz G. Sabado 
 
