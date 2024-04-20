@@ -2,13 +2,16 @@
   "name": "githubworkshop",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "start":"nodemon: app.js",
+  "main": "index.php",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
   }
 }
