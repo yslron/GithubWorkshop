@@ -23,6 +23,8 @@ Jalou M. Mutia
 =======
 MJ Florida
 
+Reymark Lapaz
+
 Kier Bryan F. Mendoza
 
 Rianna Batersal
